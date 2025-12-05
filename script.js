@@ -2,9 +2,9 @@
 // Edit this object to change the story, prompts, and word counts.
 
 const LESSON = {
-  title: "Mystery Story: The Case of the Exploding Sandwich",
+  title: "The Case of the Exploding Sandwich",
   tagline:
-    "A humorous mystery told in four parts. Write your thinking at each checkpoint to unlock the next part.",
+    "",
   introLine: "Read each section, respond to the prompt, and then continue the story.",
   parts: [
     {
